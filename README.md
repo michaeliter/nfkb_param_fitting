@@ -42,7 +42,11 @@ Here lies the code and instructions behind the parameter fitting and subsequent 
 
 ## Data for downstream analyses found in `data` folder
 - `params_3d.mat`: optimized parameter distributions in 3D format (1800 cells by 7 params by 10 best fits)
+       - every 300 rows is a new polarization state. The order is as listed in [Things to know](#Things-to-know)
 - `params_2d.csv`: the same optimized parameter distributions, but in 2D format (18000 rows by 7 params) (every 10 rows are the best fits for 1 cell)
-- `param_dist_matrix.csv`: distance matrix calculated based on average Jenson-Shannon distances for optimized param distributions between cells
-- `feat_dist_matrix.csv`: distance matrix calculated based on euclidean distances for 10 experimental trajectory features between cells 
+       - every 3000 rows is a new polarization state. The order is as listed in [Things to know](#Things-to-know)
+- `param_dist_matrix.csv`: distance matrix calculated based on average Jenson-Shannon distances for optimized param distributions between cells (1800 cells by 1800 cells)
+       - every 300 rows is a new polarization state. the order is as listed in [Things to know](#Things-to-know)
+- `feat_dist_matrix.csv`: distance matrix calculated based on euclidean distances for 10 experimental trajectory features between cells  (1800 cells by 1800 cells)
+       - every 300 rows is a new polarization state. the order is as listed in [Things to know](#Things-to-know)
 
