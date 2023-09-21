@@ -9,8 +9,9 @@ Here lies the code and instructions behind the parameter fitting and subsequent 
      5. P3Ki3 = M:IL13 cell with Pam3CSK ligand
      6. P3Ki4 = M:IL4 cell with Pam3CSK ligand
 2. RMSD = root-mean-square deviation
+3. ODE = ordinary differential equation
 ## Set-up
-1. Have MATLAB installed on your computer (version R2020b or later)
+1. Install MATLAB on your computer (version R2020b or later)
 2. Download the contents of this repository
 ## Part 1: Parameter fitting (~1 week to run)
 1. In MATLAB, navigate to the `param_fitting` folder that you downloaded from this repository
