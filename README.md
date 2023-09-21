@@ -1,7 +1,7 @@
 # Stimulus-Response signaling dynamics characterize macrophage polarization states
 Here lies the code and instructions behind the parameter fitting and subsequent downstream analyses of NFkB trajectories for 6 polarization states under Pam3CSK stimulation
 ## Things to know
-1. Polarization state shorthands used:
+1. Polarization state shorthands and order used:
      1. P3K = M0 (naive) cell with Pam3CSK ligand
      2. P3Kib = M:IFNβ cell with Pam3CSK ligand
      3. P3Kig = M:IFNγ cell with Pam3CSK ligand
