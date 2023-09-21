@@ -168,9 +168,9 @@ parfor c = 1:cell_sample_size
    % Plot experimental data
    plot(rand_data(c,:)', 'LineWIdth', 3)
    if c <= first_half_c
-       plot_name = 'P3Ki0' + string(1) + '_row_#' + string(row_indices(c)+1);
+       plot_name = 'P3K' + string(1) + '_row_#' + string(row_indices(c)+1);
    else
-       plot_name = 'P3Ki0' + string(2) + '_row_#' + string(row_indices(c)+1);
+       plot_name = 'P3K' + string(2) + '_row_#' + string(row_indices(c)+1);
    end
    print(fig, plot_name, '-dpng')
    plot_file = plot_name + '.png';
