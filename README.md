@@ -38,7 +38,7 @@ Here lies the code and instructions behind the parameter fitting and subsequent 
    Same as Part 1, except only 1 folder containing results from 2 initial conditions and 2 experimental cells
 
 ## Distance matrix calculation
-- Code for calculating distance matrix from parameter distributions can be found in the `distance_calculation.m` file
+- Code for calculating distance matrix from parameter distributions can be found in the `param_distance_calculation.m` file
 
 ## Data for downstream analyses found in `data` folder
 - `params_3d.mat`: optimized parameter distributions in 3D format (1800 cells by 7 params by 10 best fits)
