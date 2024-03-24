@@ -8,8 +8,16 @@ Code and instructions to perform the parameter fitting for NFkB trajectories in 
      4. P3Ki0 = M:IL10 cell with Pam3CSK ligand
      5. P3Ki3 = M:IL13 cell with Pam3CSK ligand
      6. P3Ki4 = M:IL4 cell with Pam3CSK ligand
-2. RMSD = root-mean-square deviation
-3. ODE = ordinary differential equation
+2. Biochemical parameters fit and order used:
+     1. IκBα mRNA NFkB induced synthesis Km
+     2. IκBα protein degradation rate
+     3. TAK1 inactivation rate
+     4. TLR2 synthesis rate
+     5. ligand-receptor complex degradation rate
+     6. IκBα transcriptional delay
+     7. NFκB initial abundance
+4. RMSD = root-mean-square deviation
+5. ODE = ordinary differential equation
 ## Set-up
 1. Install MATLAB on your computer (version R2020b or later)
 2. Download the contents of this repository
