@@ -1,5 +1,5 @@
 # Mathemtical Modeling of NFkB Signaling Dynamics in Polarized Macrophages
-Code and instructions to perform the parameter fitting for NFkB trajectories in 6 polarization states under Pam3CSK stimulation and subsequent downstream analyses as presented in "Stimulus-Response signaling dynamics characterize macrophage polarization states" (Singh et al, 2023).
+Code and instructions to perform the parameter fitting for NFkB trajectories in 6 polarization states under Pam3CSK stimulation and subsequent downstream analyses as presented in "Stimulus-Response signaling dynamics characterize macrophage polarization states" (Singh et al, 2024).
 ## Things to know
 1. Polarization state shorthands and order used:
      1. P3K = M0 (naive) cell with Pam3CSK ligand
