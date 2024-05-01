@@ -1,5 +1,6 @@
 # Mathemtical Modeling of NFkB Signaling Dynamics in Polarized Macrophages
 [![DOI](https://zenodo.org/badge/689096377.svg)](https://zenodo.org/doi/10.5281/zenodo.11099469)
+
 Code and instructions to perform the parameter fitting for NFkB trajectories in 6 polarization states under Pam3CSK stimulation and subsequent downstream analyses as presented in "Stimulus-Response signaling dynamics characterize macrophage polarization states" (Singh et al, 2024).
 ## Things to know
 1. Polarization state shorthands and order used:
